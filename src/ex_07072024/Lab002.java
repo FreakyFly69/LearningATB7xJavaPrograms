@@ -1,2 +1,4 @@
-package ex_07072024;public class Lab002 {
+package ex_07072024;
+
+public class Lab002 {
 }
