@@ -6,7 +6,7 @@ public class HW_Factorial {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter factorial num");
+        System.out.println("Enter factorial number");
         int input = sc.nextInt();
 
         int fact=1;
